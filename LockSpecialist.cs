@@ -5,13 +5,18 @@ namespace Heist_2
         public string Name { get; set;}
         public int SkillLevel { get; set;}
         public int PercentageCut { get; set;}
+        public string Specialty { get ; set ; }
+        
 
         public LockSpecialist(string newName, int newSkillLevel, int newPercentageCut)
         {
             this.Name = newName;
             this.SkillLevel = newSkillLevel;
             this.PercentageCut = newPercentageCut;
+            this.Specialty = "LockSpecialist";
         }
+
+    
 
         public void PerformSkill(Bank bank)
         {

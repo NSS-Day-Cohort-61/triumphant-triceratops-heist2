@@ -7,10 +7,10 @@ namespace Heist_2
     {
         static void Main(string[] args)
         {
-            Hacker hannah = new Hacker("Hannah", 100, 100);
-            Muscle matt = new Muscle("Matt", 2, 100);
-            LockSpecialist davis = new LockSpecialist("Davis", 80, 10);
-            Hacker alex = new Hacker("Alex", 20, 100);
+            Hacker hannah = new Hacker("Hannah", 100, 20);
+            Muscle matt = new Muscle("Matt", 2, 2);
+            LockSpecialist davis = new LockSpecialist("Davis", 80, 15);
+            Hacker alex = new Hacker("Alex", 20, 15);
             Muscle charlie = new Muscle("Charlie", 40, 5);
 
             List<IRobber> rolodex = new List<IRobber>()
@@ -89,9 +89,35 @@ namespace Heist_2
                 Console.WriteLine("Least secure: Security Guard");
             }
 
+
+
+            List<IRobber> crew = new List<IRobber>();
+        another:
+            foreach (IRobber thief in rolodex)
+            {
+                Console.WriteLine(@$"
+                    {rolodex.IndexOf(thief) + 1}
+                    Thief Name: {thief.Name} 
+                    Specialty: {thief.Specialty}
+                    Skill Level: {thief.SkillLevel}
+                    Percentage Cut: {thief.PercentageCut}");
+            }
+
+            Console.WriteLine("To add a thief to your Black Securty Van, Choose thier number.");
+            int newAccomplice = int.Parse(Console.ReadLine());
+            crew.Add(rolodex[newAccomplice - 1]);
+
+            Console.WriteLine("would you like entice another person into your web of darkness? (y/n)");
+            string userAnswer = Console.ReadLine().ToLower();
+            if (userAnswer == "y")
+            {
+                goto another;
+            }
+
+
+
+
         }
 
-
     }
-
 }
