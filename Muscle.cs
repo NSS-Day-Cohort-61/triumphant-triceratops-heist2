@@ -19,10 +19,10 @@ namespace Heist_2
         public void PerformSkill(Bank bank)
         {
             bank.SecurityGuardScore -= SkillLevel;
-            System.Console.WriteLine($"{Name} is hacking the lock. Decreased vault security by {SkillLevel}");
+            System.Console.WriteLine($"{Name} is choke slamming the security guard out {SkillLevel}");
             if (bank.SecurityGuardScore <= 0)
             {
-                System.Console.WriteLine($"{Name} has disabled the alarm system!");
+                System.Console.WriteLine($"{Name} has rendered the security guard unconscious");
             }
         }
     }

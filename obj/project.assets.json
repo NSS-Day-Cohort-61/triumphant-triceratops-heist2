@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\M\\.nuget\\packages\\": {}
+    "C:\\Users\\ddyer1015\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M\\workspace\\triumphant-triceratops-heist2\\Heist-pt2.csproj",
+      "projectUniqueName": "C:\\Users\\ddyer1015\\workspace\\Heist-pt2\\Heist-pt2.csproj",
       "projectName": "Heist-pt2",
-      "projectPath": "C:\\Users\\M\\workspace\\triumphant-triceratops-heist2\\Heist-pt2.csproj",
-      "packagesPath": "C:\\Users\\M\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M\\workspace\\triumphant-triceratops-heist2\\obj\\",
+      "projectPath": "C:\\Users\\ddyer1015\\workspace\\Heist-pt2\\Heist-pt2.csproj",
+      "packagesPath": "C:\\Users\\ddyer1015\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ddyer1015\\workspace\\Heist-pt2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\M\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ddyer1015\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
