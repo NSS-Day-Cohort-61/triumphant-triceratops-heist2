@@ -32,7 +32,7 @@ namespace Heist_2
             System.Console.WriteLine($"{Name} is hacking the lock. Decreased vault security by {SkillLevel}");
             if (bank.VaultScore <= 0)
             {
-                System.Console.WriteLine($"{Name} has disabled the alarm system!");
+                System.Console.WriteLine($"{Name} has hacked the lock!");
             }
         }
     }
