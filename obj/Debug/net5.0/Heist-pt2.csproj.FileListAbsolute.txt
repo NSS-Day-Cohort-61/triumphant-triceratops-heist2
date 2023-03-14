@@ -1,0 +1,16 @@
+C:\Users\ddyer1015\workspace\Heist-pt2\bin\Debug\net5.0\Heist-pt2.exe
+C:\Users\ddyer1015\workspace\Heist-pt2\bin\Debug\net5.0\Heist-pt2.deps.json
+C:\Users\ddyer1015\workspace\Heist-pt2\bin\Debug\net5.0\Heist-pt2.runtimeconfig.json
+C:\Users\ddyer1015\workspace\Heist-pt2\bin\Debug\net5.0\Heist-pt2.runtimeconfig.dev.json
+C:\Users\ddyer1015\workspace\Heist-pt2\bin\Debug\net5.0\Heist-pt2.dll
+C:\Users\ddyer1015\workspace\Heist-pt2\bin\Debug\net5.0\ref\Heist-pt2.dll
+C:\Users\ddyer1015\workspace\Heist-pt2\bin\Debug\net5.0\Heist-pt2.pdb
+C:\Users\ddyer1015\workspace\Heist-pt2\obj\Debug\net5.0\Heist-pt2.csproj.AssemblyReference.cache
+C:\Users\ddyer1015\workspace\Heist-pt2\obj\Debug\net5.0\Heist-pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddyer1015\workspace\Heist-pt2\obj\Debug\net5.0\Heist-pt2.AssemblyInfoInputs.cache
+C:\Users\ddyer1015\workspace\Heist-pt2\obj\Debug\net5.0\Heist-pt2.AssemblyInfo.cs
+C:\Users\ddyer1015\workspace\Heist-pt2\obj\Debug\net5.0\Heist-pt2.csproj.CoreCompileInputs.cache
+C:\Users\ddyer1015\workspace\Heist-pt2\obj\Debug\net5.0\Heist-pt2.dll
+C:\Users\ddyer1015\workspace\Heist-pt2\obj\Debug\net5.0\ref\Heist-pt2.dll
+C:\Users\ddyer1015\workspace\Heist-pt2\obj\Debug\net5.0\Heist-pt2.pdb
+C:\Users\ddyer1015\workspace\Heist-pt2\obj\Debug\net5.0\Heist-pt2.genruntimeconfig.cache
